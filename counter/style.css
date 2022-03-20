@@ -1,0 +1,44 @@
+body {
+    background-color: rgb(71, 69, 69);
+    background-image: url(https://pbs.twimg.com/media/Ep8zrYMXcAc-snv?format=jpg&name=large);
+    background-repeat: no-repeat;
+    background-size:cover;
+  }
+  
+  .box {
+    height: 150px;
+    width: 500px;
+    margin: auto;
+    margin-top: 50px;
+    background-color: rgb(53, 53, 58);
+    opacity: 70%;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  #num {
+    height: 50px;
+    width: 250px;
+    margin-top: 40px;
+    border: 1px solid black;
+    text-align: center;
+    background-color: white;
+  }
+  
+  #increment {
+    height: 30px;
+    width: 100px;
+    margin-top: 50px;
+    margin-left: 225px;
+    margin-right: 100px;
+  }
+  
+  #decrement {
+    height: 30px;
+    width: 100px;
+    margin-top: 50px;
+    margin-left: 100px;
+    margin-right: 225px;
+  }
